@@ -11,7 +11,7 @@ import java.util.Arrays;
  * --- Nd4j Example 3: Getting and setting parts of INDArrays ---
  *
  * In this example, we'll see ways to obtain and manipulate subsets of INDArray
- *
+ *发达反倒是反倒是发达发达发达
  * @author Alex Black
  */
 public class Nd4jEx3_GettingAndSettingSubsets {
